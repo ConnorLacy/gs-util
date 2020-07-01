@@ -1,5 +1,8 @@
 # action.yml
-name: 'Hello World'
+name: 'gs-util'
+branding:
+  icon: 'cloud'
+  color: 'blue'
 description: 'Greet someone and record the time'
 inputs:
   who-to-greet:  # id of input
